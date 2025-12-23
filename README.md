@@ -19,7 +19,7 @@ Built with Python, Keras, yFinance, and Matplotlib, this app provides interactiv
 
 <h1>🛠️ Technologies Used:</h1>
 
-Data Resource : **yFinance**
-Data Processing : NumPy, Pandas, Scikit-learn
-Modeling: Keras (TensorFlow backend, Neural Networks with Dropout)
-Visualization: Matplotlib
+-> Data Resource : **yFinance**
+-> Data Processing : NumPy, Pandas, Scikit-learn
+-> Modeling: Keras (TensorFlow backend, Neural Networks with Dropout)
+-> Visualization: Matplotlib
